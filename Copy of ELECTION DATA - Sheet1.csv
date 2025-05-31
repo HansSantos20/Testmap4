@@ -1,0 +1,109 @@
+YEAR,ABBREVIATIONS,STATES,ELECTORAL VOTES,CANDIDATE A,PARTY A,GOP VOTES,CANDIDATE B,PARTY B,DNC VOTES, REPORTING,TOTAL VOTES,REPUBLICAN VOTE SHARE,DEMOCRAT VOTE SHARE,Tooltip,WINNER,REPORTING %,,,,GOP,DNC
+1984,AL,ALABAMA,9,Jay Rockefeller,Republican,"158,588",Democrat,Democrat,"86,503","245,091","1,441,713",64.7%,35.3%,"Jay Rockefeller:158588.43
+Democrat: 86502.78",Jay Rockefeller,17.00%,,,,11%,6%
+1984,AK,ALASKA,3,Jay Rockefeller,Republican,"20,761",Democrat,Democrat,"10,380","31,141","207,605",66.7%,33.3%,"Jay Rockefeller:20760.5
+Democrat: 10380.25",Jay Rockefeller,15.00%,,GOP ELECTORS,DNC ELECTORS,10%,5%
+1984,AZ,ARIZONA,7,Jay Rockefeller,Republican,"102,590",Democrat,Democrat,"123,108","225,697","1,025,897",45.5%,54.5%,"Jay Rockefeller:102589.7
+Democrat: 123107.64",Democrat,22.00%,,180,358,10%,12%
+1984,AR,ARKANSAS,6,Jay Rockefeller,Republican,"106,129",Democrat,Democrat,"88,441","194,569","884,406",54.5%,45.5%,"Jay Rockefeller:106128.72
+Democrat: 88440.6",Jay Rockefeller,22.00%,,,,12%,10%
+1984,CA,CALIFORNIA,47,Jay Rockefeller,Republican,"1,615,922",Democrat,Democrat,"1,235,705","2,851,627","9,505,423",56.7%,43.3%,"Jay Rockefeller:1615921.91
+Democrat: 1235704.99",Jay Rockefeller,43.33%,,,,17%,13%
+1984,CO,COLORADO,8,Jay Rockefeller,Republican,"103,630",Democrat,Democrat,"64,769","168,400","1,295,381",61.5%,38.5%,"Jay Rockefeller:103630.48
+Democrat: 64769.05",Jay Rockefeller,38.46%,,,,8%,5%
+1984,CT,CONNECTICUT,8,Jay Rockefeller,Republican,"58,676",Democrat,Democrat,"73,345","132,021","1,466,900",44.4%,55.6%,"Jay Rockefeller:58676
+Democrat: 73345",Democrat,55.56%,,,,4%,5%
+1984,DE,DELAWARE,3,Jay Rockefeller,Republican,"10,183",Democrat,Democrat,"12,729","22,911","254,572",44.4%,55.6%,"Jay Rockefeller:10182.88
+Democrat: 12728.6",Democrat,9.00%,,,,4%,5%
+1984,FL,FLORIDA,21,Jay Rockefeller,Republican,"125,402",Democrat,Democrat,"209,003","334,404","4,180,051",37.5%,62.5%,"Jay Rockefeller:125401.53
+Democrat: 0.625",Democrat,8.00%,,,,3%,5%
+1984,GA,GEORGIA,12,Jay Rockefeller,Republican,"106,566",Democrat,Democrat,"88,805","195,370","1,776,093",54.5%,45.5%,"Jay Rockefeller:106565.58
+Democrat: 88804.65",Jay Rockefeller,11.00%,,,,6%,5%
+1984,HI,HAWAII,4,Jay Rockefeller,Republican,"10,075",Democrat,Democrat,"20,151","30,226","335,846",33.3%,66.7%,"Jay Rockefeller:10075.38
+Democrat: 20150.76",Democrat,9.00%,,,,3%,6%
+1984,ID,IDAHO,4,Jay Rockefeller,Republican,"24,669",Democrat,Democrat,"12,334","37,003","411,144",66.7%,33.3%,"Jay Rockefeller:24668.64
+Democrat: 12334.32",Jay Rockefeller,9.00%,,,,6%,3%
+1984,IL,ILLINOIS,24,Jay Rockefeller,Republican,"144,573",Democrat,Democrat,"240,954","385,527","4,819,088",37.5%,62.5%,"Jay Rockefeller:144572.64
+Democrat: 240954.4",Democrat,8.00%,,,,3%,5%
+1984,IN,INDIANA,12,Jay Rockefeller,Republican,"156,315",Democrat,Democrat,"111,653","267,968","2,233,069",58.3%,41.7%,"Jay Rockefeller:156314.83
+Democrat: 111653.45",Jay Rockefeller,12.00%,,,,7%,5%
+1984,IA,IOWA,8,Jay Rockefeller,Republican,"118,782",Democrat,Democrat,"65,990","184,773","1,319,805",64.3%,35.7%,"Jay Rockefeller:118782.45
+Democrat: 65990.25",Jay Rockefeller,14.00%,,,,9%,5%
+1984,KS,KANSAS,7,Jay Rockefeller,Republican,"122,639",Democrat,Democrat,"51,100","173,738","1,021,991",70.6%,29.4%,"Jay Rockefeller:122638.92
+Democrat: 51099.55",Jay Rockefeller,17.00%,,,,12%,5%
+1984,KY,KENTUCKY,9,Jay Rockefeller,Republican,0,Democrat,Democrat,0,0,"1,370,461",#DIV/0!,#DIV/0!,"Jay Rockefeller:0
+Democrat: 0",Democrat,0.00%,,,,0%,0%
+1984,LA,LOUISIANA,10,Jay Rockefeller,Republican,"187,750",Democrat,Democrat,"85,341","273,092","1,706,822",68.8%,31.3%,"Jay Rockefeller:187750.42
+Democrat: 85341.1",Jay Rockefeller,16.00%,,,,11%,5%
+1984,ME,MAINE,4,Jay Rockefeller,Republican,"22,083",Democrat,Democrat,"44,166","66,250","1,104,159",33.3%,66.7%,"Jay Rockefeller:22083.18
+Democrat: 44166.36",Democrat,6.00%,,,,2%,4%
+1984,MD,MARYLAND,10,Jay Rockefeller,Republican,"50,276",Democrat,Democrat,"83,794","134,070","1,675,873",37.5%,62.5%,"Jay Rockefeller:50276.19
+Democrat: 83793.65",Democrat,8.00%,,,,3%,5%
+1984,MA,MASSACHUSETTS,13,Jay Rockefeller,Republican,"51,189",Democrat,Democrat,"127,973","179,162","2,559,453",28.6%,71.4%,"Jay Rockefeller:51189.06
+Democrat: 127972.65",Democrat,7.00%,,,,2%,5%
+1984,MI,MICHIGAN,20,Jay Rockefeller,Republican,"76,033",Democrat,Democrat,"152,066","228,099","3,801,658",33.3%,66.7%,"Jay Rockefeller:76033.16
+Democrat: 152066.32",Democrat,6.00%,,,,2%,4%
+1984,MN,MINNESOTA,10,Jay Rockefeller,Republican,"41,689",Democrat,Democrat,"62,533","104,222","2,084,449",40.0%,60.0%,"Jay Rockefeller:41688.98
+Democrat: 62533.47",Democrat,5.00%,,,,2%,3%
+1984,MS,MISSISSIPPI,7,Jay Rockefeller,Republican,"47,010",Democrat,Democrat,"18,804","65,813","940,192",71.4%,28.6%,"Jay Rockefeller:47009.6
+Democrat: 18803.84",Jay Rockefeller,7.00%,,,,5%,2%
+1984,MO,MISSOURI,11,Jay Rockefeller,Republican,"106,139",Democrat,Democrat,"42,455","148,594","2,122,771",71.4%,28.6%,"Jay Rockefeller:106138.55
+Democrat: 42455.42",Jay Rockefeller,7.00%,,,,5%,2%
+1984,MT,MONTANA,4,Jay Rockefeller,Republican,"15,375",Democrat,Democrat,"7,688","23,063","384,377",66.7%,33.3%,"Jay Rockefeller:15375.08
+Democrat: 7687.54",Jay Rockefeller,6.00%,,,,4%,2%
+1984,NE,NEBRASKA,5,Jay Rockefeller,Republican,"26,084",Democrat,Democrat,"13,042","39,125","652,090",66.7%,33.3%,"Jay Rockefeller:26083.6
+Democrat: 13041.8",Jay Rockefeller,6.00%,,,,4%,2%
+1984,NV,NEVADA,4,Jay Rockefeller,Republican,"5,733",Democrat,Democrat,"5,733","11,467","286,667",50.0%,50.0%,"Jay Rockefeller:5733.34
+Democrat: 5733.34",Democrat,4.00%,,,,2%,2%
+1984,NH,NEW HAMPSHIRE,4,Jay Rockefeller,Republican,"7,779",Democrat,Democrat,"7,779","15,558","388,954",50.0%,50.0%,"Jay Rockefeller:7779.08
+Democrat: 7779.08",Democrat,4.00%,,,,2%,2%
+1984,NJ,NEW JERSEY,16,Jay Rockefeller,Republican,"64,357",Democrat,Democrat,"64,357","128,714","3,217,862",50.0%,50.0%,"Jay Rockefeller:64357.24
+Democrat: 64357.24",Democrat,4.00%,,,,2%,2%
+1984,NM,NEW MEXICO,5,Jay Rockefeller,Republican,"10,287",Democrat,Democrat,"10,287","20,575","514,370",50.0%,50.0%,"Jay Rockefeller:10287.4
+Democrat: 10287.4",Democrat,4.00%,,,,2%,2%
+1984,NY,NEW YORK,36,Jay Rockefeller,Republican,"136,136",Democrat,Democrat,"136,136","272,272","6,806,810",50.0%,50.0%,"Jay Rockefeller:136136.2
+Democrat: 136136.2",Democrat,4.00%,,,,2%,2%
+1984,NC,NORTH CAROLINA,13,Jay Rockefeller,Republican,"43,507",Democrat,Democrat,"43,507","87,014","2,175,361",50.0%,50.0%,"Jay Rockefeller:43507.22
+Democrat: 43507.22",Democrat,4.00%,,,,2%,2%
+1984,ND,NORTH DAKOTA,3,Jay Rockefeller,Republican,"6,179",Democrat,Democrat,"6,179","12,359","308,971",50.0%,50.0%,"Jay Rockefeller:6179.42
+Democrat: 6179.42",Democrat,4.00%,,,,2%,2%
+1984,OH,OHIO,23,Jay Rockefeller,Republican,"90,952",Democrat,Democrat,"90,952","181,905","4,547,619",50.0%,50.0%,"Jay Rockefeller:90952.38
+Democrat: 90952.38",Democrat,4.00%,,,,2%,2%
+1984,OK,OKLAHOMA,8,Jay Rockefeller,Republican,"25,114",Democrat,Democrat,"25,114","50,227","1,255,676",50.0%,50.0%,"Jay Rockefeller:25113.52
+Democrat: 25113.52",Democrat,4.00%,,,,2%,2%
+1984,OR,OREGON,7,Jay Rockefeller,Republican,"24,531",Democrat,Democrat,"24,531","49,061","1,226,527",50.0%,50.0%,"Jay Rockefeller:24530.54
+Democrat: 24530.54",Democrat,4.00%,,,,2%,2%
+1984,PA,PENNSYLVANIA,25,Jay Rockefeller,Republican,"96,898",Democrat,Democrat,"96,898","193,796","4,844,903",50.0%,50.0%,"Jay Rockefeller:96898.06
+Democrat: 96898.06",Democrat,4.00%,,,,2%,2%
+1984,RI,RHODE ISLAND,4,Jay Rockefeller,Republican,"8,210",Democrat,Democrat,"8,210","16,420","410,492",50.0%,50.0%,"Jay Rockefeller:8209.84
+Democrat: 8209.84",Democrat,4.00%,,,,2%,2%
+1984,SC,SOUTH CAROLINA,8,Jay Rockefeller,Republican,"19,371",Democrat,Democrat,"19,371","38,742","968,540",50.0%,50.0%,"Jay Rockefeller:19370.8
+Democrat: 19370.8",Democrat,4.00%,,,,2%,2%
+1984,SD,SOUTH DAKOTA,3,Jay Rockefeller,Republican,"6,357",Democrat,Democrat,"6,357","12,715","317,867",50.0%,50.0%,"Jay Rockefeller:6357.34
+Democrat: 6357.34",Democrat,4.00%,,,,2%,2%
+1984,TN,TENNESSEE,11,Jay Rockefeller,Republican,"34,240",Democrat,Democrat,"34,240","68,480","1,711,993",50.0%,50.0%,"Jay Rockefeller:34239.86
+Democrat: 34239.86",Democrat,4.00%,,,,2%,2%
+1984,TX,TEXAS,29,Jay Rockefeller,Republican,"107,951",Democrat,Democrat,"107,951","215,903","5,397,571",50.0%,50.0%,"Jay Rockefeller:107951.42
+Democrat: 107951.42",Democrat,4.00%,,,,2%,2%
+1984,UT,UTAH,5,Jay Rockefeller,Republican,"25,186",Democrat,Democrat,"12,593","37,779","629,656",66.7%,33.3%,"Jay Rockefeller:25186.24
+Democrat: 12593.12",Jay Rockefeller,6.00%,,,,4%,2%
+1984,VT,VERMONT,3,Jay Rockefeller,Republican,"4,691",Democrat,Democrat,"4,691","9,382","234,561",50.0%,50.0%,"Jay Rockefeller:4691.22
+Democrat: 4691.22",Democrat,4.00%,,,,2%,2%
+1984,VA,VIRGINIA,12,Jay Rockefeller,Republican,"85,865",Democrat,Democrat,"42,933","128,798","2,146,635",66.7%,33.3%,"Jay Rockefeller:85865.4
+Democrat: 42932.7",Jay Rockefeller,6.00%,,,,4%,2%
+1984,WA,WASHINGTON,10,Jay Rockefeller,Republican,"75,356",Democrat,Democrat,"37,678","113,035","1,883,910",66.7%,33.3%,"Jay Rockefeller:75356.4
+Democrat: 37678.2",Jay Rockefeller,6.00%,,,,4%,2%
+1984,WV,WEST VIRGINIA,6,Jay Rockefeller,Republican,"14,715",Democrat,Democrat,"14,715","29,430","735,742",50.0%,50.0%,"Jay Rockefeller:14714.84
+Democrat: 14714.84",Democrat,4.00%,,,,2%,2%
+1984,WI,WISCONSIN,11,Jay Rockefeller,Republican,"44,240",Democrat,Democrat,"44,240","88,481","2,212,016",50.0%,50.0%,"Jay Rockefeller:44240.32
+Democrat: 44240.32",Democrat,4.00%,,,,2%,2%
+1984,WY,WYOMING,3,Jay Rockefeller,Republican,"3,779",Democrat,Democrat,"3,779","7,559","188,968",50.0%,50.0%,"Jay Rockefeller:3779.36
+Democrat: 3779.36",Democrat,4.00%,,,,2%,2%
+1984,DC,DISTRICT OF COLUMBIA,3,Jay Rockefeller,Republican,"4,226",Democrat,Democrat,"4,226","8,452","211,288",50.0%,50.0%,"Jay Rockefeller:4225.76
+Democrat: 4225.76",Democrat,4.00%,,,,2%,2%
+,NATIONAL,,538,,,"4,554,789.61",,,"3,985,290.17","8,540,079.78","93,204,248.00",,,,,9.16%,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+CANDIDATE,ELECTORS,RAW VOTE,VOTE SHARE,,,,,,,,,,,,,,,,,,
+Jay Rockefeller,180,"4,554,789.61",53.33%,,,,,,,,,,,,,,,,,,
+Democrat,358,"3,985,290.17",46.67%,,,,,,,,,,,,,,,,,,
