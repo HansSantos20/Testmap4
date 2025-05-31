@@ -68,7 +68,7 @@
 
       // Fetching and parsing Google Sheet data
       React.useEffect(() => {
-        const googleSheetUrl = 'YOUR_GOOGLE_SHEET_CSV_URL'; // Replace with actual Google Sheet CSV URL
+        const googleSheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQKl38MM3h1Aye-TW-qnATJ3BmHrtoiZkeUXu3VRljvLuL_KAB2TA7o1Q2X5tiFT1s6itQWDIoF0se_/pub?gid=0&single=true&output=csv'; // Replace with actual Google Sheet CSV URL
         Papa.parse(googleSheetUrl, {
           download: true,
           header: true,
